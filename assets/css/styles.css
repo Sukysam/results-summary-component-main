@@ -142,7 +142,7 @@ button {
 }
 
 .box-1::before {
-    content: url(/assets/images/icon-reaction.svg);
+    content: url(../images/icon-reaction.svg);
 }
 
 .box-2 {
@@ -151,7 +151,7 @@ button {
 }
 
 .box-2::before {
-    content: url(/assets/images/icon-memory.svg);
+    content: url(../images/icon-memory.svg);
 }
 
 .box-3 {
@@ -160,7 +160,7 @@ button {
 }
 
 .box-3::before {
-    content: url(/assets/images/icon-verbal.svg);
+    content: url(../images/icon-verbal.svg);
 }
 
 .box-4 {
@@ -169,7 +169,7 @@ button {
 }
 
 .box-4::before {
-    content: url(/assets/images/icon-visual.svg);
+    content: url(../images/icon-visual.svg);
 }
 
 .attribution {

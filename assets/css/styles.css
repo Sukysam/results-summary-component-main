@@ -131,6 +131,10 @@ button {
     margin-top: 10px;
 }
 
+button:hover {
+    background-image: linear-gradient(#8368fc, #222152);
+}
+
 .sum-items>h6 {
     position: absolute;
     margin-left: 25px;
